@@ -2,6 +2,7 @@
 
 ## Integrantes del grupo:
 -Milena Mayerli Mero Loor
+
 -Grace Rosalinda Mendoza Velez
 
 ## Descripción
